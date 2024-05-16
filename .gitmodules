@@ -1,0 +1,6 @@
+[submodule "dep/emlabcpp"]
+	path = dep/emlabcpp
+	url = https://github.com/koniarik/emlabcpp.git
+[submodule "dep/rapidcheck"]
+	path = dep/rapidcheck
+	url = https://github.com/emil-e/rapidcheck.git
